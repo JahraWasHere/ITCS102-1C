@@ -1,5 +1,5 @@
-n1 = eval(input("Type your First Number >>>"))
-n2 = eval(input("Type your Second Number >>>"))
+n1 = eval(input("Type your First Number! --->"))
+n2 = eval(input("Type your Second Number! --->"))
 
 a = n1 + n2
 b = n1 - n2
