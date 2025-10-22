@@ -14,4 +14,4 @@ while variable == True:
         break
     else:
         anime_list.append(anime)
-        print("Anime Added to List!")
+        print(f"{anime} Added to List!")
