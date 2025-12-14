@@ -837,3 +837,11 @@ while True:
             
             elif option == "8":
                 break
+
+            else:
+                invalid_input()
+                continue
+    
+    else:
+        invalid_input()
+        continue
